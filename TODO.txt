@@ -1,0 +1,8 @@
+# Lista de coisas interessantes pra aplicar nesse app futuramente
+
+1. Responsividade ***
+2. Dark theme *
+3. PWA **
+4. Outros BDs (firestore ou supabase)*
+
+5?. Styled components
