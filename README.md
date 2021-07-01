@@ -13,9 +13,9 @@ Um site de Q&A (perguntas e respostas) em tempo real feito no React (lindão �
 
 # Executando na sua máquina
 #### Para executar esse projeto na sua máquina você precisa baixar este repositório e executar o comando para instalar as dependências, como o
-        npm install
+    npm install
   
 Além disso é necessário configurar um Realtime Database no [Firebase](https://firebase.google.com/) e setar as variáveis de configuração do seu projeto como variáveis de ambiente, conforme mostra o [arquivo de exemplo](https://github.com/Scalibacon/nlw-letmeask/blob/master/.env.example). Basta substituir as "???" pelas suas informações de configuração, vulgo firebaseConfig.
 
 #### Após ter feito isso, para executar a aplicação basta usar o comando
-        npm start
+    npm start
